@@ -110,11 +110,86 @@ CMakeFiles/Lab2.dir/Tasks/task1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Tasks/task1.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task1.cpp -o CMakeFiles\Lab2.dir\Tasks\task1.cpp.s
 
+CMakeFiles/Lab2.dir/Tasks/task3.cpp.obj: CMakeFiles/Lab2.dir/flags.make
+CMakeFiles/Lab2.dir/Tasks/task3.cpp.obj: C:/Users/gardiex/Desktop/projects/Lab2/Tasks/task3.cpp
+CMakeFiles/Lab2.dir/Tasks/task3.cpp.obj: CMakeFiles/Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Lab2.dir/Tasks/task3.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab2.dir/Tasks/task3.cpp.obj -MF CMakeFiles\Lab2.dir\Tasks\task3.cpp.obj.d -o CMakeFiles\Lab2.dir\Tasks\task3.cpp.obj -c C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task3.cpp
+
+CMakeFiles/Lab2.dir/Tasks/task3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab2.dir/Tasks/task3.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task3.cpp > CMakeFiles\Lab2.dir\Tasks\task3.cpp.i
+
+CMakeFiles/Lab2.dir/Tasks/task3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Tasks/task3.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task3.cpp -o CMakeFiles\Lab2.dir\Tasks\task3.cpp.s
+
+CMakeFiles/Lab2.dir/Structures/Set.cpp.obj: CMakeFiles/Lab2.dir/flags.make
+CMakeFiles/Lab2.dir/Structures/Set.cpp.obj: C:/Users/gardiex/Desktop/projects/Lab2/Structures/Set.cpp
+CMakeFiles/Lab2.dir/Structures/Set.cpp.obj: CMakeFiles/Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Lab2.dir/Structures/Set.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab2.dir/Structures/Set.cpp.obj -MF CMakeFiles\Lab2.dir\Structures\Set.cpp.obj.d -o CMakeFiles\Lab2.dir\Structures\Set.cpp.obj -c C:\Users\gardiex\Desktop\projects\Lab2\Structures\Set.cpp
+
+CMakeFiles/Lab2.dir/Structures/Set.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab2.dir/Structures/Set.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\gardiex\Desktop\projects\Lab2\Structures\Set.cpp > CMakeFiles\Lab2.dir\Structures\Set.cpp.i
+
+CMakeFiles/Lab2.dir/Structures/Set.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Structures/Set.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gardiex\Desktop\projects\Lab2\Structures\Set.cpp -o CMakeFiles\Lab2.dir\Structures\Set.cpp.s
+
+CMakeFiles/Lab2.dir/Structures/arr.cpp.obj: CMakeFiles/Lab2.dir/flags.make
+CMakeFiles/Lab2.dir/Structures/arr.cpp.obj: C:/Users/gardiex/Desktop/projects/Lab2/Structures/arr.cpp
+CMakeFiles/Lab2.dir/Structures/arr.cpp.obj: CMakeFiles/Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Lab2.dir/Structures/arr.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab2.dir/Structures/arr.cpp.obj -MF CMakeFiles\Lab2.dir\Structures\arr.cpp.obj.d -o CMakeFiles\Lab2.dir\Structures\arr.cpp.obj -c C:\Users\gardiex\Desktop\projects\Lab2\Structures\arr.cpp
+
+CMakeFiles/Lab2.dir/Structures/arr.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab2.dir/Structures/arr.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\gardiex\Desktop\projects\Lab2\Structures\arr.cpp > CMakeFiles\Lab2.dir\Structures\arr.cpp.i
+
+CMakeFiles/Lab2.dir/Structures/arr.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Structures/arr.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gardiex\Desktop\projects\Lab2\Structures\arr.cpp -o CMakeFiles\Lab2.dir\Structures\arr.cpp.s
+
+CMakeFiles/Lab2.dir/Structures/Pair.cpp.obj: CMakeFiles/Lab2.dir/flags.make
+CMakeFiles/Lab2.dir/Structures/Pair.cpp.obj: C:/Users/gardiex/Desktop/projects/Lab2/Structures/Pair.cpp
+CMakeFiles/Lab2.dir/Structures/Pair.cpp.obj: CMakeFiles/Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Lab2.dir/Structures/Pair.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab2.dir/Structures/Pair.cpp.obj -MF CMakeFiles\Lab2.dir\Structures\Pair.cpp.obj.d -o CMakeFiles\Lab2.dir\Structures\Pair.cpp.obj -c C:\Users\gardiex\Desktop\projects\Lab2\Structures\Pair.cpp
+
+CMakeFiles/Lab2.dir/Structures/Pair.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab2.dir/Structures/Pair.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\gardiex\Desktop\projects\Lab2\Structures\Pair.cpp > CMakeFiles\Lab2.dir\Structures\Pair.cpp.i
+
+CMakeFiles/Lab2.dir/Structures/Pair.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Structures/Pair.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gardiex\Desktop\projects\Lab2\Structures\Pair.cpp -o CMakeFiles\Lab2.dir\Structures\Pair.cpp.s
+
+CMakeFiles/Lab2.dir/Structures/list.cpp.obj: CMakeFiles/Lab2.dir/flags.make
+CMakeFiles/Lab2.dir/Structures/list.cpp.obj: C:/Users/gardiex/Desktop/projects/Lab2/Structures/list.cpp
+CMakeFiles/Lab2.dir/Structures/list.cpp.obj: CMakeFiles/Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Lab2.dir/Structures/list.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab2.dir/Structures/list.cpp.obj -MF CMakeFiles\Lab2.dir\Structures\list.cpp.obj.d -o CMakeFiles\Lab2.dir\Structures\list.cpp.obj -c C:\Users\gardiex\Desktop\projects\Lab2\Structures\list.cpp
+
+CMakeFiles/Lab2.dir/Structures/list.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab2.dir/Structures/list.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\gardiex\Desktop\projects\Lab2\Structures\list.cpp > CMakeFiles\Lab2.dir\Structures\list.cpp.i
+
+CMakeFiles/Lab2.dir/Structures/list.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Structures/list.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gardiex\Desktop\projects\Lab2\Structures\list.cpp -o CMakeFiles\Lab2.dir\Structures\list.cpp.s
+
 # Object files for target Lab2
 Lab2_OBJECTS = \
 "CMakeFiles/Lab2.dir/main.cpp.obj" \
 "CMakeFiles/Lab2.dir/Structures/Stack.cpp.obj" \
-"CMakeFiles/Lab2.dir/Tasks/task1.cpp.obj"
+"CMakeFiles/Lab2.dir/Tasks/task1.cpp.obj" \
+"CMakeFiles/Lab2.dir/Tasks/task3.cpp.obj" \
+"CMakeFiles/Lab2.dir/Structures/Set.cpp.obj" \
+"CMakeFiles/Lab2.dir/Structures/arr.cpp.obj" \
+"CMakeFiles/Lab2.dir/Structures/Pair.cpp.obj" \
+"CMakeFiles/Lab2.dir/Structures/list.cpp.obj"
 
 # External object files for target Lab2
 Lab2_EXTERNAL_OBJECTS =
@@ -122,11 +197,16 @@ Lab2_EXTERNAL_OBJECTS =
 Lab2.exe: CMakeFiles/Lab2.dir/main.cpp.obj
 Lab2.exe: CMakeFiles/Lab2.dir/Structures/Stack.cpp.obj
 Lab2.exe: CMakeFiles/Lab2.dir/Tasks/task1.cpp.obj
+Lab2.exe: CMakeFiles/Lab2.dir/Tasks/task3.cpp.obj
+Lab2.exe: CMakeFiles/Lab2.dir/Structures/Set.cpp.obj
+Lab2.exe: CMakeFiles/Lab2.dir/Structures/arr.cpp.obj
+Lab2.exe: CMakeFiles/Lab2.dir/Structures/Pair.cpp.obj
+Lab2.exe: CMakeFiles/Lab2.dir/Structures/list.cpp.obj
 Lab2.exe: CMakeFiles/Lab2.dir/build.make
 Lab2.exe: CMakeFiles/Lab2.dir/linkLibs.rsp
 Lab2.exe: CMakeFiles/Lab2.dir/objects1.rsp
 Lab2.exe: CMakeFiles/Lab2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Lab2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Lab2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Lab2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

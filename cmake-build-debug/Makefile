@@ -194,6 +194,7 @@ Structures/Pair.obj: Structures/Pair.cpp.obj
 
 # target to build an object file
 Structures/Pair.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/Pair.cpp.obj
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/Pair.cpp.obj
 .PHONY : Structures/Pair.cpp.obj
 
@@ -202,6 +203,7 @@ Structures/Pair.i: Structures/Pair.cpp.i
 
 # target to preprocess a source file
 Structures/Pair.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/Pair.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/Pair.cpp.i
 .PHONY : Structures/Pair.cpp.i
 
@@ -210,6 +212,7 @@ Structures/Pair.s: Structures/Pair.cpp.s
 
 # target to generate assembly for a file
 Structures/Pair.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/Pair.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/Pair.cpp.s
 .PHONY : Structures/Pair.cpp.s
 
@@ -218,6 +221,7 @@ Structures/Set.obj: Structures/Set.cpp.obj
 
 # target to build an object file
 Structures/Set.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/Set.cpp.obj
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/Set.cpp.obj
 .PHONY : Structures/Set.cpp.obj
 
@@ -226,6 +230,7 @@ Structures/Set.i: Structures/Set.cpp.i
 
 # target to preprocess a source file
 Structures/Set.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/Set.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/Set.cpp.i
 .PHONY : Structures/Set.cpp.i
 
@@ -234,6 +239,7 @@ Structures/Set.s: Structures/Set.cpp.s
 
 # target to generate assembly for a file
 Structures/Set.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/Set.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/Set.cpp.s
 .PHONY : Structures/Set.cpp.s
 
@@ -266,6 +272,7 @@ Structures/arr.obj: Structures/arr.cpp.obj
 
 # target to build an object file
 Structures/arr.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/arr.cpp.obj
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/arr.cpp.obj
 .PHONY : Structures/arr.cpp.obj
 
@@ -274,6 +281,7 @@ Structures/arr.i: Structures/arr.cpp.i
 
 # target to preprocess a source file
 Structures/arr.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/arr.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/arr.cpp.i
 .PHONY : Structures/arr.cpp.i
 
@@ -282,6 +290,7 @@ Structures/arr.s: Structures/arr.cpp.s
 
 # target to generate assembly for a file
 Structures/arr.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/arr.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/arr.cpp.s
 .PHONY : Structures/arr.cpp.s
 
@@ -290,6 +299,7 @@ Structures/list.obj: Structures/list.cpp.obj
 
 # target to build an object file
 Structures/list.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/list.cpp.obj
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/list.cpp.obj
 .PHONY : Structures/list.cpp.obj
 
@@ -298,6 +308,7 @@ Structures/list.i: Structures/list.cpp.i
 
 # target to preprocess a source file
 Structures/list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/list.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/list.cpp.i
 .PHONY : Structures/list.cpp.i
 
@@ -306,6 +317,7 @@ Structures/list.s: Structures/list.cpp.s
 
 # target to generate assembly for a file
 Structures/list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/list.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/list.cpp.s
 .PHONY : Structures/list.cpp.s
 
@@ -356,6 +368,30 @@ Tasks/task2.s: Tasks/task2.cpp.s
 Tasks/task2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Tasks/task2.cpp.s
 .PHONY : Tasks/task2.cpp.s
+
+Tasks/task3.obj: Tasks/task3.cpp.obj
+.PHONY : Tasks/task3.obj
+
+# target to build an object file
+Tasks/task3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task3.cpp.obj
+.PHONY : Tasks/task3.cpp.obj
+
+Tasks/task3.i: Tasks/task3.cpp.i
+.PHONY : Tasks/task3.i
+
+# target to preprocess a source file
+Tasks/task3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task3.cpp.i
+.PHONY : Tasks/task3.cpp.i
+
+Tasks/task3.s: Tasks/task3.cpp.s
+.PHONY : Tasks/task3.s
+
+# target to generate assembly for a file
+Tasks/task3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task3.cpp.s
+.PHONY : Tasks/task3.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -418,6 +454,9 @@ help:
 	@echo ... Tasks/task2.obj
 	@echo ... Tasks/task2.i
 	@echo ... Tasks/task2.s
+	@echo ... Tasks/task3.obj
+	@echo ... Tasks/task3.i
+	@echo ... Tasks/task3.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

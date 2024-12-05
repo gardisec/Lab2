@@ -7,7 +7,11 @@ set(CMAKE_CXX_STANDARD 23)
 add_executable(Lab2 main.cpp
         Structures/Stack.cpp
         Tasks/task1.cpp
-
+        Tasks/task3.cpp
+        Structures/Set.cpp
+        Structures/arr.cpp
+        Structures/Pair.cpp
+        Structures/list.cpp
 )
 
 add_executable(Task2 Tasks/task2.cpp

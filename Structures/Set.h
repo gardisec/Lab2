@@ -5,9 +5,8 @@
 #include "arr.h"
 #include <iostream>
 
-#define BUCKETS 10
 
-using std::cout, std::endl, std::ostream, std::to_string;
+using namespace std;
 
 
 struct Set {
@@ -15,7 +14,7 @@ struct Set {
     size_t bucketCount;
     size_t pairCount;
 
-    Set(): pairCount(0), bucketCount(BUCKETS), buckets(BUCKETS){} //создаёт BUCKETS бакет
+    Set(): pairCount(0), bucketCount(10), buckets(10){} //создаёт BUCKETS бакет
     explicit Set(size_t num): pairCount(0), bucketCount(num), buckets(num){} //создаёт num бакетов
 
     void insert(const int& value);
