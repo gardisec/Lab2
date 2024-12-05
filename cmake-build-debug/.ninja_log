@@ -1,0 +1,15 @@
+# ninja log v6
+2	190	7551241306865796	build.ninja	fae1dab575399152
+9	550	7551133474276101	CMakeFiles/Lab2.dir/Tasks/task1.cpp.obj	d32e34147a5f7005
+5	799	7551240674088216	CMakeFiles/Task2.dir/Tasks/task2.cpp.obj	466fb7041ee1803e
+5	720	7551120460074827	CMakeFiles/Lab2.dir/Structures/Stack.cpp.obj	828af3c6d6e7068
+18	2444	7551170939179151	CMakeFiles/Lab2.dir/main.cpp.obj	a9083082fbae4146
+2446	2732	7551170963449042	Lab2.exe	1720f215d8d0f853
+34	817	7551240674378014	CMakeFiles/Task2.dir/ForTask2/helpFuncs.cpp.obj	da958361f3d53448
+37	928	7551240674407666	CMakeFiles/Task2.dir/ForTask2/SetCommands.cpp.obj	8752fed2b52abda5
+41	834	7551240674447648	CMakeFiles/Task2.dir/Structures/Set.cpp.obj	c5e04e1c6f783b6d
+4	381	7551240843750366	CMakeFiles/Task2.dir/Structures/arr.cpp.obj	370b7b24b8389ab1
+3	388	7551241105088284	CMakeFiles/Task2.dir/Structures/list.cpp.obj	6ac2a4952f9fc14c
+2	188	7551241306865796	build.ninja	fae1dab575399152
+3	362	7551241307065886	CMakeFiles/Task2.dir/Structures/Pair.cpp.obj	398f75f26304ab13
+362	458	7551241310655139	Task2.exe	c0f20c7a6ca7a26e
