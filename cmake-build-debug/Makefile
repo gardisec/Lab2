@@ -294,6 +294,30 @@ Structures/arr.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Task2.dir\build.make CMakeFiles/Task2.dir/Structures/arr.cpp.s
 .PHONY : Structures/arr.cpp.s
 
+Structures/hashMap.obj: Structures/hashMap.cpp.obj
+.PHONY : Structures/hashMap.obj
+
+# target to build an object file
+Structures/hashMap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/hashMap.cpp.obj
+.PHONY : Structures/hashMap.cpp.obj
+
+Structures/hashMap.i: Structures/hashMap.cpp.i
+.PHONY : Structures/hashMap.i
+
+# target to preprocess a source file
+Structures/hashMap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/hashMap.cpp.i
+.PHONY : Structures/hashMap.cpp.i
+
+Structures/hashMap.s: Structures/hashMap.cpp.s
+.PHONY : Structures/hashMap.s
+
+# target to generate assembly for a file
+Structures/hashMap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Structures/hashMap.cpp.s
+.PHONY : Structures/hashMap.cpp.s
+
 Structures/list.obj: Structures/list.cpp.obj
 .PHONY : Structures/list.obj
 
@@ -393,6 +417,78 @@ Tasks/task3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task3.cpp.s
 .PHONY : Tasks/task3.cpp.s
 
+Tasks/task4.obj: Tasks/task4.cpp.obj
+.PHONY : Tasks/task4.obj
+
+# target to build an object file
+Tasks/task4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task4.cpp.obj
+.PHONY : Tasks/task4.cpp.obj
+
+Tasks/task4.i: Tasks/task4.cpp.i
+.PHONY : Tasks/task4.i
+
+# target to preprocess a source file
+Tasks/task4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task4.cpp.i
+.PHONY : Tasks/task4.cpp.i
+
+Tasks/task4.s: Tasks/task4.cpp.s
+.PHONY : Tasks/task4.s
+
+# target to generate assembly for a file
+Tasks/task4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task4.cpp.s
+.PHONY : Tasks/task4.cpp.s
+
+Tasks/task5.obj: Tasks/task5.cpp.obj
+.PHONY : Tasks/task5.obj
+
+# target to build an object file
+Tasks/task5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task5.cpp.obj
+.PHONY : Tasks/task5.cpp.obj
+
+Tasks/task5.i: Tasks/task5.cpp.i
+.PHONY : Tasks/task5.i
+
+# target to preprocess a source file
+Tasks/task5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task5.cpp.i
+.PHONY : Tasks/task5.cpp.i
+
+Tasks/task5.s: Tasks/task5.cpp.s
+.PHONY : Tasks/task5.s
+
+# target to generate assembly for a file
+Tasks/task5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task5.cpp.s
+.PHONY : Tasks/task5.cpp.s
+
+Tasks/task6.obj: Tasks/task6.cpp.obj
+.PHONY : Tasks/task6.obj
+
+# target to build an object file
+Tasks/task6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task6.cpp.obj
+.PHONY : Tasks/task6.cpp.obj
+
+Tasks/task6.i: Tasks/task6.cpp.i
+.PHONY : Tasks/task6.i
+
+# target to preprocess a source file
+Tasks/task6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task6.cpp.i
+.PHONY : Tasks/task6.cpp.i
+
+Tasks/task6.s: Tasks/task6.cpp.s
+.PHONY : Tasks/task6.s
+
+# target to generate assembly for a file
+Tasks/task6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make CMakeFiles/Lab2.dir/Tasks/task6.cpp.s
+.PHONY : Tasks/task6.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -445,6 +541,9 @@ help:
 	@echo ... Structures/arr.obj
 	@echo ... Structures/arr.i
 	@echo ... Structures/arr.s
+	@echo ... Structures/hashMap.obj
+	@echo ... Structures/hashMap.i
+	@echo ... Structures/hashMap.s
 	@echo ... Structures/list.obj
 	@echo ... Structures/list.i
 	@echo ... Structures/list.s
@@ -457,6 +556,15 @@ help:
 	@echo ... Tasks/task3.obj
 	@echo ... Tasks/task3.i
 	@echo ... Tasks/task3.s
+	@echo ... Tasks/task4.obj
+	@echo ... Tasks/task4.i
+	@echo ... Tasks/task4.s
+	@echo ... Tasks/task5.obj
+	@echo ... Tasks/task5.i
+	@echo ... Tasks/task5.s
+	@echo ... Tasks/task6.obj
+	@echo ... Tasks/task6.i
+	@echo ... Tasks/task6.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -180,6 +180,62 @@ CMakeFiles/Lab2.dir/Structures/list.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Structures/list.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gardiex\Desktop\projects\Lab2\Structures\list.cpp -o CMakeFiles\Lab2.dir\Structures\list.cpp.s
 
+CMakeFiles/Lab2.dir/Tasks/task4.cpp.obj: CMakeFiles/Lab2.dir/flags.make
+CMakeFiles/Lab2.dir/Tasks/task4.cpp.obj: C:/Users/gardiex/Desktop/projects/Lab2/Tasks/task4.cpp
+CMakeFiles/Lab2.dir/Tasks/task4.cpp.obj: CMakeFiles/Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Lab2.dir/Tasks/task4.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab2.dir/Tasks/task4.cpp.obj -MF CMakeFiles\Lab2.dir\Tasks\task4.cpp.obj.d -o CMakeFiles\Lab2.dir\Tasks\task4.cpp.obj -c C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task4.cpp
+
+CMakeFiles/Lab2.dir/Tasks/task4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab2.dir/Tasks/task4.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task4.cpp > CMakeFiles\Lab2.dir\Tasks\task4.cpp.i
+
+CMakeFiles/Lab2.dir/Tasks/task4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Tasks/task4.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task4.cpp -o CMakeFiles\Lab2.dir\Tasks\task4.cpp.s
+
+CMakeFiles/Lab2.dir/Tasks/task5.cpp.obj: CMakeFiles/Lab2.dir/flags.make
+CMakeFiles/Lab2.dir/Tasks/task5.cpp.obj: C:/Users/gardiex/Desktop/projects/Lab2/Tasks/task5.cpp
+CMakeFiles/Lab2.dir/Tasks/task5.cpp.obj: CMakeFiles/Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Lab2.dir/Tasks/task5.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab2.dir/Tasks/task5.cpp.obj -MF CMakeFiles\Lab2.dir\Tasks\task5.cpp.obj.d -o CMakeFiles\Lab2.dir\Tasks\task5.cpp.obj -c C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task5.cpp
+
+CMakeFiles/Lab2.dir/Tasks/task5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab2.dir/Tasks/task5.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task5.cpp > CMakeFiles\Lab2.dir\Tasks\task5.cpp.i
+
+CMakeFiles/Lab2.dir/Tasks/task5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Tasks/task5.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task5.cpp -o CMakeFiles\Lab2.dir\Tasks\task5.cpp.s
+
+CMakeFiles/Lab2.dir/Tasks/task6.cpp.obj: CMakeFiles/Lab2.dir/flags.make
+CMakeFiles/Lab2.dir/Tasks/task6.cpp.obj: C:/Users/gardiex/Desktop/projects/Lab2/Tasks/task6.cpp
+CMakeFiles/Lab2.dir/Tasks/task6.cpp.obj: CMakeFiles/Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Lab2.dir/Tasks/task6.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab2.dir/Tasks/task6.cpp.obj -MF CMakeFiles\Lab2.dir\Tasks\task6.cpp.obj.d -o CMakeFiles\Lab2.dir\Tasks\task6.cpp.obj -c C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task6.cpp
+
+CMakeFiles/Lab2.dir/Tasks/task6.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab2.dir/Tasks/task6.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task6.cpp > CMakeFiles\Lab2.dir\Tasks\task6.cpp.i
+
+CMakeFiles/Lab2.dir/Tasks/task6.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Tasks/task6.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gardiex\Desktop\projects\Lab2\Tasks\task6.cpp -o CMakeFiles\Lab2.dir\Tasks\task6.cpp.s
+
+CMakeFiles/Lab2.dir/Structures/hashMap.cpp.obj: CMakeFiles/Lab2.dir/flags.make
+CMakeFiles/Lab2.dir/Structures/hashMap.cpp.obj: C:/Users/gardiex/Desktop/projects/Lab2/Structures/hashMap.cpp
+CMakeFiles/Lab2.dir/Structures/hashMap.cpp.obj: CMakeFiles/Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Lab2.dir/Structures/hashMap.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab2.dir/Structures/hashMap.cpp.obj -MF CMakeFiles\Lab2.dir\Structures\hashMap.cpp.obj.d -o CMakeFiles\Lab2.dir\Structures\hashMap.cpp.obj -c C:\Users\gardiex\Desktop\projects\Lab2\Structures\hashMap.cpp
+
+CMakeFiles/Lab2.dir/Structures/hashMap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab2.dir/Structures/hashMap.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\gardiex\Desktop\projects\Lab2\Structures\hashMap.cpp > CMakeFiles\Lab2.dir\Structures\hashMap.cpp.i
+
+CMakeFiles/Lab2.dir/Structures/hashMap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Structures/hashMap.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gardiex\Desktop\projects\Lab2\Structures\hashMap.cpp -o CMakeFiles\Lab2.dir\Structures\hashMap.cpp.s
+
 # Object files for target Lab2
 Lab2_OBJECTS = \
 "CMakeFiles/Lab2.dir/main.cpp.obj" \
@@ -189,7 +245,11 @@ Lab2_OBJECTS = \
 "CMakeFiles/Lab2.dir/Structures/Set.cpp.obj" \
 "CMakeFiles/Lab2.dir/Structures/arr.cpp.obj" \
 "CMakeFiles/Lab2.dir/Structures/Pair.cpp.obj" \
-"CMakeFiles/Lab2.dir/Structures/list.cpp.obj"
+"CMakeFiles/Lab2.dir/Structures/list.cpp.obj" \
+"CMakeFiles/Lab2.dir/Tasks/task4.cpp.obj" \
+"CMakeFiles/Lab2.dir/Tasks/task5.cpp.obj" \
+"CMakeFiles/Lab2.dir/Tasks/task6.cpp.obj" \
+"CMakeFiles/Lab2.dir/Structures/hashMap.cpp.obj"
 
 # External object files for target Lab2
 Lab2_EXTERNAL_OBJECTS =
@@ -202,11 +262,15 @@ Lab2.exe: CMakeFiles/Lab2.dir/Structures/Set.cpp.obj
 Lab2.exe: CMakeFiles/Lab2.dir/Structures/arr.cpp.obj
 Lab2.exe: CMakeFiles/Lab2.dir/Structures/Pair.cpp.obj
 Lab2.exe: CMakeFiles/Lab2.dir/Structures/list.cpp.obj
+Lab2.exe: CMakeFiles/Lab2.dir/Tasks/task4.cpp.obj
+Lab2.exe: CMakeFiles/Lab2.dir/Tasks/task5.cpp.obj
+Lab2.exe: CMakeFiles/Lab2.dir/Tasks/task6.cpp.obj
+Lab2.exe: CMakeFiles/Lab2.dir/Structures/hashMap.cpp.obj
 Lab2.exe: CMakeFiles/Lab2.dir/build.make
 Lab2.exe: CMakeFiles/Lab2.dir/linkLibs.rsp
 Lab2.exe: CMakeFiles/Lab2.dir/objects1.rsp
 Lab2.exe: CMakeFiles/Lab2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Lab2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\gardiex\Desktop\projects\Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable Lab2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Lab2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

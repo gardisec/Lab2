@@ -12,6 +12,10 @@ add_executable(Lab2 main.cpp
         Structures/arr.cpp
         Structures/Pair.cpp
         Structures/list.cpp
+        Tasks/task4.cpp
+        Tasks/task5.cpp
+        Tasks/task6.cpp
+        Structures/hashMap.cpp
 )
 
 add_executable(Task2 Tasks/task2.cpp
